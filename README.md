@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Bruce Onyango - [Github](https://github.com/BruceOnyango)
+Malik Ibrahim - [Github](https://github.com/nerbrain)
 
 Second part of Airbnb: Joann Vuong
 ## License
